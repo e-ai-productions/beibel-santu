@@ -35,6 +35,6 @@ Download: https://github.com/e-ai-productions/beibel-santu/raw/main/BeibelSantu_
 
 Download: https://github.com/e-ai-productions/beibel-santu/raw/main/BeibelSantu_v10_ZefaniaXML.xml
 
-## Agradesyon
+## Danki
 
-E tradukshon di 1997, e korekshonnan di ortografia konforme Buki di Oro (FPI 2009), i tur kos ta trahá ku pasenshi pa e pueblo di Kòrsou i Boneiru.
+Danki pa e tradukshon di 1997, pa e korekshonnan di ortografia konforme Buki di Oro (FPI 2009), i pa tur kos trahá ku pasenshi pa e pueblo di Kòrsou i Boneiru.
