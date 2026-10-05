@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <XMLBIBLE biblename="Beibel Santu (Papiamentu 1997, Buki di Oro-gereviseerd)" type="x-bible">
   <INFORMATION>
-    <title>Beibel Santu — Papiamentu (1997), versie 9 (herzien)</title>
+    <title>Beibel Santu — Papiamentu (1997), versie 10 (herzien)</title>
     <description>Complete Papiamentu Bible (1997 Beibel Santu). Bron: papiamento_bible17 database. v4: 5.360 correcties tegen Buki di Oro (FPI 2009) + herstel van 1.919 é-&gt;E datacorrupties. v5: correcties nav foutenlijst Ruben Williams (Jerusalèm ipv Yerusalèm, biudanan, antiguedat, bishé, huramentu, grandi — NB: de Jesus ipv Hesus- en Jesu-Cristu ipv Hesu-Kristu-wijzigingen uit v5 zijn in v10 TERUGGEDRAAID, zie v10). v10 (5 okt 2026): REVERT van de v5-Jesus-wijzigingen — Hesus ipv Jesus (824x, incl. 'Bar Hesus' in Echonan 13:6) en Hesu-Kristu ipv Jesu-Cristu (14x), na bevestiging van Eléazar Rojas (verificatie Indra) dat HESUS de correcte schrijfvorm is. Tweede ronde zelfde dag: Jesu Cristo (Spaanse corruptievorm, 118x) en HesuKristu (9x) eveneens genormaliseerd naar HESU-KRISTU (met koppelteken, vorm bevestigd door Eléazar Rojas). v6+v7 (7 sept 2026): Huesnan 15:10, Echonan 28:14, 28:15 (ánimo) en 28:17 compleet/hersteld volgens de Beibel Santu-tekst van Eleazar Rojas. v8 (28 sept 2026): Eleazar Rojas bevestigde spelling-correctie mizerikòrdia (ipv miserikòrdia): 328x vervangen in de volledige tekst. v9 (28 sept 2026): Eleazars schrijfvorm restourá (ipv restorá): 45x vervangen, inclusief 1x enclitisch 'restourábo' (Jeremias 15:19).</description>
     <language>Papiamentu</language>
-    <publisher>Bible Society Curaçao</publisher>
+    <publisher>Editorial Evangelica, Curaçao (Kòrsou)</publisher>
+    <identifier>ISBN: 9990464995</identifier>
+    <date>1997</date>
+    <coverage>Curaçao (Kòrsou)</coverage>
+    <relation>Also catalogued digitally by YouVersion/Bible.com under the abbreviation BEIBEL-SANTU ("Beibel Santu — Editorial Evangeliko").</relation>
+    <rights>BEIBEL SANTU — PAPIAMENTU
+
+Beibel Santu
+Papiamentu Bible translation
+Curaçao
+
+©️ 1997 EDITORIAL EVANGELICA. All Rights Reserved.
+ISBN: 9990464995
+
+Published by Editorial Evangelica, Curaçao (Kòrsou).
+
+This edition is commonly identified as Beibel Santu and is a complete Bible in Papiamentu. Bibliographic and digital Bible sources identify the 1997 edition with Editorial Evangelica and ISBN 9990464995.
+
+Copyright Notice:
+The text of this Bible translation is copyrighted by Editorial Evangelica. All rights reserved. Permission is required from the copyright holder for reproduction, publication, distribution, commercial use, or substantial quotation of the copyrighted text, except where such use is permitted by applicable copyright law.
+
+Bible text identification:
+Title: Beibel Santu
+Language: Papiamentu
+Edition: 1997
+Publisher/Copyright holder: Editorial Evangeliko
+Place of publication: Curaçao (Kòrsou)
+ISBN: 9990464995
+
+Digital reference:
+The Beibel Santu edition is also catalogued digitally by YouVersion/Bible.com under the abbreviation BEIBEL-SANTU and is identified there as "Beibel Santu — Editorial Evangeliko."
+
+Important:
+This copyright notice does not transfer, modify, or replace any rights belonging to Editorial Evangeliko. It is provided for identification and attribution of the Bible edition. For permission to reproduce or redistribute the copyrighted text, contact the current rights holder or authorized representative of Editorial Evangeliko.</rights>
     <format>Zefania XML Bible Markup Language</format>
   </INFORMATION>
   <BIBLEBOOK bnumber="1" bname="Génesis" bsname="Gen">
